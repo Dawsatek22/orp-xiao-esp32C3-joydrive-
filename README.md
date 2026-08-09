@@ -1,0 +1,1 @@
+This is a repo for a 2wheeled dc motor robot with xiao esp32C3 board,Bluepad32 library,And a Bluetooth gamepad(currently a Xbox Wireless (model 1708, 2 buttons) controller).The tutorial videos and cad parts are coming soon but the code is already posted if yow wanna try out

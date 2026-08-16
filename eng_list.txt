@@ -1,0 +1,52 @@
+
+Playlist:
+00:05 Warnings and summaries
+00:09: Starting with building the
+robot
+13:08 upload and test the robot
+15:51 showing results
+16:00 goodbyes and recomendations
+
+
+Summary and warnings:
+The tutorial video instructions is explained in subtitles so be aware of that,This project uses 3 to 9v power so be careful,The cad parts used here in this project come from https://openroboticplatform.com/,Some stl file names are changed to make it easier to recognise,
+The links for materials and tools are more for reference and not necessary the place to aquire them,
+Be careful with the wiring so that it not can cause damage to the board or the breadbord power supply,
+If there is any mistakes please comment back in the videos comment section so that i can fix it.
+Recommended skills:
+Programming arduino/esp32 boards in the arduino ide,Soldering,Using the Bluepad32 library,Working with 3 to 9v power,
+3d printing or aquiring of nessacary cad parts.
+
+
+Recommended software:
+Arduino ide https://www.arduino.cc/en/software#ide,Bluepad32 library https://bluepad32.readthedocs.io/en/latest/,esp32 board library.
+Tools and materials:
+
+1x pc/laptop with access to arduino ide.
+8x 20mm m/m dupont wires(possible 4 times  more to solder on the motors) https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-male-20cm-10-wires?sort=p.price&order=ASC .
+1x Breadboard with 400 points https://www.tinytronics.nl/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points .
+2x tt dc motor with 2x 20mm m/m dupont wires soldered each side  https://www.tinytronics.nl/en/mechanics-and-actuators/motors/dc-motors/dc-transmission-motor-6v-200rpm-48:1?sort=p.price&order=ASC .
+1x 9v Battery Clip with DC Jack https://www.tinytronics.nl/en/power/battery-holders-and-clips/9v/9v-battery-clip-with-dc-jack
+1x 9v battery https://www.amazon.nl/-/en/Kodak-CTA-30953437-Salina-battery/dp/B00ZA2UDKU/ref=sr_1_2?crid=3BCEQUB8VH8K9&dib=eyJ2IjoiMSJ9.3cojJZCF5sGfpGNpi8Quu5g3SBwzBNLCk2CEN6z8XYIl2Yi_ADL8A5YZseqXCcqW7ZBY7BPLdw41VmHlvzqoTdU8gGCwmDz5TiZERyGFksRxOaZcmr7pY5TipNYfwMOiOWGFkUPwgGzad937ZTWRrc83IeuFCnoIVe85z04Yw7zw4iaQV9IkjMd7D1mlEMWoc6EYKm1qFZLZdwj0DnSpFQhWebczRhxih7eqfifib1_JgYiSDP5rgAej57FNS_uzha1BPFwzlmE_HrDVJcrksBm2_VMjjONzATXqK1ai11I.AIPr_5A_eCyQHdOQzud_N2ixtPHO2xFefW2TZGgWhM4&dib_tag=se&keywords=9v+battery&qid=1786518566&sprefix=9v%2Caps%2C129&sr=8-2 .
+2x rubber wheels for motors https://www.kiwi-electronics.com/en/wheel-65mm-rubber-tire-pair-3243?search=wheel.
+ https://www.kiwi-electronics.com/en/breadboard-power-supply-3v3-5v-2946?search=breadbord%20power .
+1x XIAO -ESP32-C3 with pins soldered https://www.tinytronics.nl/nl/development-boards/microcontroller-boards/met-wi-fi/seeed-studio-xiao-esp32-c3 .
+1x gamepad compatible with Bluepad32 library (for this tutorial the: Xbox Wireless (model 1708, 2 buttons) is used) https://bluepad32.readthedocs.io/en/latest/supported_gamepads/ .
+1x drv8833 motor driver with pins soldered https://www.tinytronics.nl/nl/mechanica-en-actuatoren/motoraansturingen-en-drivers/stappen-motoraansturingen-en-drivers/drv8833-bipolaire-stappenmotor-en-dc-motor-motoraansturing .
+1x usb c data cable https://www.tinytronics.nl/nl/kabels-en-connectoren/kabels-en-adapters/usb/usb-c/goobay-59118-usb-c-usb-a-2.0-kabel-0.5m-3a-zwart .
+1x m3 allen wrench.
+For screws and nuts:
+8x m3x12mm allen screws.
+1x m3x16mm allen screws.
+11x m3 nuts.
+
+Cad parts(recommended for petg or pla filament):
+
+1x nikodembartnik-3-plate_160mm.3mf
+1x nikodembartnik-206-middle_breadboard_holder.stl
+1x rupantar2002-147-MotorMountingBracket(left).stl
+1x rupantar2002-148-MotorMountingBracket2(right).stl
+1x Tenda-59-9V.3mf
+
+Cad parts(recommended for tpu filament):
+1x nikodembartnik-45-12mm_caster_wheel.3mf
